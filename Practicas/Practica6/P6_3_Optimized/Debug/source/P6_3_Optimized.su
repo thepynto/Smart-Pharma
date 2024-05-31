@@ -1,0 +1,16 @@
+C:\Users\omarp\Documents\MCUXpressoIDE_11.9.0_2144\workspace\P6_3_Optimized\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\omarp\Documents\MCUXpressoIDE_11.9.0_2144\workspace\P6_3_Optimized\CMSIS/core_cm0plus.h:846:22:NVIC_SystemReset	8	static
+../source/P6_3_Optimized.c:31:5:main	80	static
+../source/P6_3_Optimized.c:243:6:keypad_init	8	static
+../source/P6_3_Optimized.c:256:6:keypad_getkey	24	static
+../source/P6_3_Optimized.c:311:6:LCD_init	8	static
+../source/P6_3_Optimized.c:346:6:LCD_ready	16	static
+../source/P6_3_Optimized.c:362:6:LCD_command	16	static
+../source/P6_3_Optimized.c:376:6:LCD_command_noWait	16	static
+../source/P6_3_Optimized.c:389:6:LCD_data	16	static
+../source/P6_3_Optimized.c:405:6:controlMotor	32	static
+../source/P6_3_Optimized.c:438:6:ADC0_init	8	static
+../source/P6_3_Optimized.c:449:6:button_init	8	static
+../source/P6_3_Optimized.c:459:6:PORTA_IRQHandler	8	static
+../source/P6_3_Optimized.c:472:6:displayMessage	24	static
+../source/P6_3_Optimized.c:481:6:delayMs	24	static

@@ -1,0 +1,5 @@
+../source/MiniReto2_Contador.c:24:5:main	24	static
+../source/MiniReto2_Contador.c:86:6:LCD_init	8	static
+../source/MiniReto2_Contador.c:120:6:LCD_command	16	static
+../source/MiniReto2_Contador.c:135:6:LCD_data	16	static
+../source/MiniReto2_Contador.c:150:6:delayMs	24	static

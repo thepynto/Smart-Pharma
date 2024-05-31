@@ -1,0 +1,9 @@
+../source/MiniReto.c:21:5:main	24	static
+../source/MiniReto.c:44:6:LCD_init	8	static
+../source/MiniReto.c:79:6:LCD_ready	16	static
+../source/MiniReto.c:96:6:LCD_command	16	static
+../source/MiniReto.c:111:6:LCD_command_noWait	16	static
+../source/MiniReto.c:124:6:LCD_data	16	static
+../source/MiniReto.c:141:6:LED_init	8	static
+../source/MiniReto.c:158:6:delayUs	24	static
+../source/MiniReto.c:165:6:delayMs	24	static

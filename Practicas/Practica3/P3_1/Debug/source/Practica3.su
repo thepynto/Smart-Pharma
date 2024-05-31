@@ -1,0 +1,9 @@
+../source/Practica3.c:31:5:main	32	static
+../source/Practica3.c:79:6:LCD_init	8	static
+../source/Practica3.c:113:6:LCD_command	16	static
+../source/Practica3.c:128:6:LCD_data	16	static
+../source/Practica3.c:143:6:keypad_init	8	static
+../source/Practica3.c:157:6:keypad_getkey	24	static
+../source/Practica3.c:213:6:show_message	48	static
+../source/Practica3.c:332:6:LED_init	8	static
+../source/Practica3.c:348:6:delayMs	24	static

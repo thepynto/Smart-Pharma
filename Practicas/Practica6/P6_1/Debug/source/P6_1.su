@@ -1,0 +1,4 @@
+../source/P6_1.c:18:5:main	48	static
+../source/P6_1.c:80:6:delayMs	24	static
+../source/P6_1.c:86:6:keypad_init	8	static
+../source/P6_1.c:100:6:keypad_getkey	24	static

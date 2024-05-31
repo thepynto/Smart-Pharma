@@ -1,0 +1,4 @@
+../source/delay.c:10:6:delayUs	24	static
+../source/delay.c:17:6:delayMs	24	static
+../source/delay.c:24:6:delayPar	24	static
+../source/delay.c:31:6:delayMsScalable	24	static
